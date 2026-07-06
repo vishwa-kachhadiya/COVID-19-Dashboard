@@ -50,23 +50,6 @@ The dashboard enables users to explore COVID-19 trends across different countrie
 
 ---
 
-## 📂 Repository Structure
-
-```
-COVID-19-Tableau-Dashboard/
-│
-├── README.md
-├── dashboard_demo.mp4
-├── images/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   └── dashboard4.png
-└── dataset.csv
-```
-
----
-
 ## 🚀 How to Use
 
 1. Clone this repository.
